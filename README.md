@@ -106,5 +106,31 @@ The <code>netflix_titles.csv</code> file is separated by a <strong>pipe (|)</str
 We handle this using <code>sep="|"</code> in the <code>read_csv</code> function.
 Additionally, <code>index_col=0</code> sets the first column as the DataFrame index.
 </p>
+<!-- Contact Section --> 
+
+<h2 align="center" style="margin-bottom: 30px;">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+<div align="center" style="margin-bottom: 30px;">
+  <a href="mailto:safwannasir49@gmail.com" target="_blank" style="margin: 0 15px;">
+    <img src="Images/gmail.png" width=50 height=50 alt="safwannasir49@gmail.com" />
+  </a>
+
+  <a href="https://x.com/safwannasir49" target="_blank" style="margin: 0 15px;">
+    <img src="Images/twitter.png" width=50 height=50 alt="safwannasir49" />
+  </a>
+
+  <a href="https://www.instagram.com/safwan_nasir_" target="_blank" style="margin: 0 15px;">
+    <img src="Images/instagram.png" width=50 height=50 alt="safwannasir49" />
+  </a>
+
+  <a href="https://www.github.com/safwannasir49" target="_blank" style="margin: 0 15px;">
+    <img src="Images/github.png" width=50 height=50 alt="safwannasir49" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/safwannasir49/" target="_blank" style="margin: 0 15px;">
+    <img src="Images/linkedin.png" width=50 height=50 alt="linkedin" />
+  </a>
+</div>
+
+<br/><br/>
 
 <hr>
