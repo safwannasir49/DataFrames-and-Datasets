@@ -8,10 +8,10 @@
 
 <hr>
 
-<h2>📜 About The Project</h2>
+<h2>📜 About The Repositry</h2>
 
 <p>
-This project focuses on exploring and analyzing multiple datasets using Python's <strong>Pandas</strong> library. 
+This Repositry focuses on exploring and analyzing multiple datasets using Python's <strong>Pandas</strong> library. 
 We explore real estate sales, state population estimates, and Netflix media titles by loading them from CSV files, 
 handling different data formats, and preparing them for deeper analysis.
 </p>
