@@ -107,7 +107,7 @@ We handle this using <code>sep="|"</code> in the <code>read_csv</code> function.
 Additionally, <code>index_col=0</code> sets the first column as the DataFrame index.
 </p>
 
-<br><br>
+<br><br><br>
 <!-- Contact Section --> 
 
 <h3 align="center">Connect with me:</h3>
